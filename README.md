@@ -1,6 +1,6 @@
 # Stable-Diffusion-from-Scratch
 
-I have understand this whole for mathematical purposes.
+I have built this whole for mathematical purposes.
 
 At start I have basic question, "How a dumb machine can generate images?"
 
@@ -19,7 +19,7 @@ I made my base of mathematics in following order:
   3. Probabiliy (Specific for Sampling)
   4. Linear Algebra + Calculus for Machine Learning
 
-       You can find course video of Imperial College London on Youtube
+       You can find course video of "Imperial College London" on Youtube
 
 # VAE
 I already knew how to build GANs and VAE, but withouts deep maths. I first learnt how VAE works mathematically, but it didn't make clear sense back then. I still continued.
@@ -31,6 +31,7 @@ I already knew how to build GANs and VAE, but withouts deep maths. I first learn
 I started learning from "Umar Jamil".
 
   Link: https://www.youtube.com/watch?v=ZBKpAp_6TGI&t=2667s
+
 
   During this I explored each thing to its depth like Transformers, DDPM, Attention and Clip from ton of resources.
 
